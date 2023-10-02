@@ -13,6 +13,8 @@
 
 2022
 ----
+* [LoG 2022] **A Generalist Neural Algorithmic Learner** [[Paper](https://proceedings.mlr.press/v198/ibarz22a/ibarz22a.pdf)]
+* [NeurIPS 2022] **Graph neural networks are dynamic programmers** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/8248b1ded388fcdbbd121bcdfea3068c-Paper-Conference.pdf)]
 
 2021
 ----
