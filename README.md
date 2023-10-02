@@ -20,9 +20,6 @@
 2020
 ----
 
-Before 2020
-----
-
 ## Contributing
 If you have come across relevant resources, feel free to open an issue or submit a pull request.
 
