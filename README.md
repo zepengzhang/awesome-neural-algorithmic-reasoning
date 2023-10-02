@@ -9,6 +9,7 @@
 ----
 * [NeurIPS 2023] **Neural Algorithmic Reasoning Without Intermediate Supervision** [[Paper](https://arxiv.org/pdf/2306.13411.pdf)]
 * [ICML 2023] **Neural Algorithmic Reasoning with Causal Regularisation** [[Paper](https://openreview.net/pdf?id=kP2p67F4G7)]
+* [TMLR 2023] **Towards Better Out-of-Distribution Generalization of Neural Algorithmic Reasoning Tasks** [[Paper](https://openreview.net/pdf?id=xkrtvHlp3P)]
 
 2022
 ----
