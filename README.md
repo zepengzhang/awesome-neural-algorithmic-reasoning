@@ -1,6 +1,5 @@
 # awesome-neural-algorithmic-reasoning
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-A collection of papers on Neural Algorithmic Reasoning
 > A collection of papers on **Neural Algorithmic Reasoning**. Will be frequently updated.
 
 <!-- ## Literature [sorted in reverse chronological order]-->
@@ -8,6 +7,8 @@ A collection of papers on Neural Algorithmic Reasoning
 
 2023
 ----
+* [NeurIPS 2023] **Neural Algorithmic Reasoning Without Intermediate Supervision** [[Paper](https://arxiv.org/pdf/2306.13411.pdf)]
+* [ICML 2023] **Neural Algorithmic Reasoning with Causal Regularisation** [[Paper](https://openreview.net/pdf?id=kP2p67F4G7)]
 
 2022
 ----
