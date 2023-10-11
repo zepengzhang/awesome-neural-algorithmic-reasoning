@@ -18,7 +18,7 @@
 
 2022
 ----
-* [LoG 2022] **A Generalist Neural Algorithmic Learner** [[Paper](https://proceedings.mlr.press/v198/ibarz22a/ibarz22a.pdf)]
+* [LoG 2022] **A Generalist Neural Algorithmic Learner** [[Paper](https://proceedings.mlr.press/v198/ibarz22a/ibarz22a.pdf) | [Note](https://zepengzhang.com/Notes/2023/20231011.pdf)]
 * [LoG 2022] **Reasoning-Modulated Representations** [[Paper](https://proceedings.mlr.press/v198/velickovic22a/velickovic22a.pdf)]
 * [NeurIPS 2022] **Graph neural networks are dynamic programmers** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/8248b1ded388fcdbbd121bcdfea3068c-Paper-Conference.pdf)]
 * [NeurIPS 2022] **Learning to Configure Computer Networks with Neural Algorithmic Reasoning** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/04cc90ec6868b97b7423dc38ced1e35c-Paper-Conference.pdf)]
