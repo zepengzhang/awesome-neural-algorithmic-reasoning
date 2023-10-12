@@ -15,7 +15,7 @@
 * [arXiv 2023] **Flood and Echo: Algorithmic Alignment of GNNs with Distributed Computing** [[Paper](https://arxiv.org/pdf/2310.06970.pdf)]
 * [ICML KLR Workshop 2023] **Parallel Algorithms Align with Neural Execution** [[Paper](https://arxiv.org/pdf/2307.04049.pdf) | [Note](https://zepengzhang.com/Notes/2023/20231010.pdf)]
 * [ICML KLR Workshop 2023] **Asynchronous Algorithmic Alignment with Cocycles** [[Paper](https://arxiv.org/pdf/2306.15632.pdf)]
-* [ICML KLR Workshop 2023] **Latent Space Representations of Neural Algorithmic Reasoners** [[Paper](https://arxiv.org/pdf/2307.08874.pdf)]
+* [ICML KLR Workshop 2023] **Latent Space Representations of Neural Algorithmic Reasoners** [[Paper](https://arxiv.org/pdf/2307.08874.pdf) | [Code](https://github.com/mirjanic/nar-latent-spaces) | [Note](https://zepengzhang.com/Notes/2023/20231012.pdf)]
 * [AAAI GCLR Workshop 2023] **Learning Graph Algorithms With Recurrent Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2212.04934.pdf) | [Code](https://github.com/floriangroetschla/Recurrent-GNNs-for-algorithm-learning/tree/main)]
 
 2022
