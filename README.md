@@ -21,7 +21,7 @@
 * [ICML-W KLR 2023] **Recursive Algorithmic Reasoning** [[Paper](https://arxiv.org/pdf/2307.00337.pdf)]
 * [ICML-W KLR 2023] **Latent Space Representations of Neural Algorithmic Reasoners** [[Paper](https://arxiv.org/pdf/2307.08874.pdf) | [Code](https://github.com/mirjanic/nar-latent-spaces) | [Note](https://zepengzhang.com/Notes/2023/20231012.pdf)]
 * [ICML-W CB 2023] **NARTI: Neural Algorithmic Reasoning for Trajectory Inference** [[Paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper77.pdf)]
-* [AAAI-W GCLR 2023] **Learning Graph Algorithms With Recurrent Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2212.04934.pdf) | [Code](https://github.com/floriangroetschla/Recurrent-GNNs-for-algorithm-learning/tree/main)]
+* [AAAI-W GCLR 2023] **Learning Graph Algorithms With Recurrent Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2212.04934.pdf) | [Code](https://github.com/floriangroetschla/Recurrent-GNNs-for-algorithm-learning/tree/main) | [Note](https://zepengzhang.com/Notes/2023/20231013.pdf)]
 
 2022
 ----
