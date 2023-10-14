@@ -4,6 +4,13 @@
 
 <!-- ## Literature [sorted in reverse chronological order]-->
 
+2024
+----
+* [ICLR 2024 Submission] **Neural Priority Queues for Graph Neural Networks** [[Paper](https://openreview.net/pdf?id=aGdBhld9py)]
+* [ICLR 2024 Submission] **Algorithm Design for Learned Algorithms** [[Paper](https://openreview.net/pdf?id=N2M8zxPcKp)]
+* [ICLR 2024 Submission] **Flood and Echo: Algorithmic Alignment of GNNs with Distributed Computing** [[Paper](https://openreview.net/pdf?id=B5CgCJY2po)]
+* [ICLR 2024 Submission] **On the Markov Property of Neural Algorithmic Reasoning: Analyses and Methods** [[Paper](https://openreview.net/pdf?id=Kn7tWhuetn)]
+* [ICLR 2024 Submission] **RLP: A Reinforcement Learning Benchmark for Neural Algorithmic Reasoning** [[Paper](https://openreview.net/pdf?id=pYmQId95iR)]
 
 2023
 ----
@@ -14,11 +21,9 @@
 * [JMLR 2023] **Combinatorial Optimization and Reasoning with Graph Neural Networks** [[Paper](https://www.jmlr.org/papers/volume24/21-0449/21-0449.pdf)]
 * [TMLR 2023] **Towards Better Out-of-Distribution Generalization of Neural Algorithmic Reasoning Tasks** [[Paper](https://openreview.net/pdf?id=xkrtvHlp3P) | [Code](https://github.com/DSL-Lab/clrs)]
 * [arXiv 2023] **SALSA-CLRS: A Sparse and Scalable Benchmark for Algorithmic Reasoning** [[Paper](https://arxiv.org/pdf/2309.12253.pdf) | [Code](https://github.com/jkminder/salsa-clrs)]
-* [arXiv 2023] **Flood and Echo: Algorithmic Alignment of GNNs with Distributed Computing** [[Paper](https://arxiv.org/pdf/2310.06970.pdf)]
 * [arXiv 2023] **Neural Algorithmic Reasoning for Combinatorial Optimisation** [[Paper](https://arxiv.org/pdf/2306.06064.pdf)]
 * [ICML-W KLR 2023] **Parallel Algorithms Align with Neural Execution** [[Paper](https://arxiv.org/pdf/2307.04049.pdf) | [Note](https://zepengzhang.com/Notes/2023/20231010.pdf)]
 * [ICML-W KLR 2023] **Asynchronous Algorithmic Alignment with Cocycles** [[Paper](https://arxiv.org/pdf/2306.15632.pdf)]
-* [ICML-W KLR 2023] **Neural Priority Queues for Graph Neural Networks (GNNs)** [[Paper](https://arxiv.org/pdf/2307.09660.pdf)]
 * [ICML-W KLR 2023] **Recursive Algorithmic Reasoning** [[Paper](https://arxiv.org/pdf/2307.00337.pdf)]
 * [ICML-W KLR 2023] **Latent Space Representations of Neural Algorithmic Reasoners** [[Paper](https://arxiv.org/pdf/2307.08874.pdf) | [Code](https://github.com/mirjanic/nar-latent-spaces) | [Note](https://zepengzhang.com/Notes/2023/20231012.pdf)]
 * [ICML-W CB 2023] **NARTI: Neural Algorithmic Reasoning for Trajectory Inference** [[Paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper77.pdf)]
