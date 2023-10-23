@@ -46,6 +46,7 @@
 * [NeurIPS 2021] **Can You Learn an Algorithm? Generalizing from Easy to Hard Problems with Recurrent Networks** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/3501672ebc68a5524629080e3ef60aef-Paper.pdf)]
 * [ICML 2021] **Size-Invariant Graph Representations for Graph Classiﬁcation Extrapolations** [[Paper](http://proceedings.mlr.press/v139/bevilacqua21a/bevilacqua21a.pdf)]
 * [ICLR 2021] **How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks** [[Paper](https://openreview.net/pdf?id=UH-cmocLJC)]
+* [ICLR-W SimDL 2021] **Persistent Message Passing** [[Paper](https://openreview.net/pdf?id=HhOJZT--N23)]
 * [Patterns 2021] **Neural algorithmic reasoning** [[Paper](https://www.cell.com/patterns/pdf/S2666-3899(21)00099-4.pdf)]
 
 2020
