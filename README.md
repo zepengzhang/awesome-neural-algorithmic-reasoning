@@ -6,7 +6,7 @@
 
 2024
 ----
-* [ICLR 2024 Submission] **Neural Priority Queues for Graph Neural Networks** [[Paper](https://openreview.net/pdf?id=aGdBhld9py)]
+* [ICLR 2024 Submission] **Neural Priority Queues for Graph Neural Networks** [[Paper](https://openreview.net/pdf?id=aGdBhld9py) | [Note](https://zepengzhang.com/Notes/2023/20231023.pdf)]
 * [ICLR 2024 Submission] **Algorithm Design for Learned Algorithms** [[Paper](https://openreview.net/pdf?id=N2M8zxPcKp)]
 * [ICLR 2024 Submission] **Flood and Echo: Algorithmic Alignment of GNNs with Distributed Computing** [[Paper](https://openreview.net/pdf?id=B5CgCJY2po)]
 * [ICLR 2024 Submission] **On the Markov Property of Neural Algorithmic Reasoning: Analyses and Methods** [[Paper](https://openreview.net/pdf?id=Kn7tWhuetn)]
