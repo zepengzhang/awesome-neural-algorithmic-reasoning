@@ -19,7 +19,7 @@
 * [ICLR 2023] **Dual Algorithmic Reasoning** [[Paper](https://openreview.net/pdf?id=hhvkdRdWt1F) | [Code](https://github.com/danilonumeroso/dar)]
 * [ICLR 2023] **Relational Attention: Generalizing Transformers for Graph-Structured Tasks** [[Paper](https://openreview.net/pdf?id=cFuMmbWiN6) | [Code](https://github.com/CameronDiao/relational-transformer)]
 * [JMLR 2023] **Combinatorial Optimization and Reasoning with Graph Neural Networks** [[Paper](https://www.jmlr.org/papers/volume24/21-0449/21-0449.pdf)]
-* [TMLR 2023] **Towards Better Out-of-Distribution Generalization of Neural Algorithmic Reasoning Tasks** [[Paper](https://openreview.net/pdf?id=xkrtvHlp3P) | [Code](https://github.com/DSL-Lab/clrs)]
+* [TMLR 2023] **Towards Better Out-of-Distribution Generalization of Neural Algorithmic Reasoning Tasks** [[Paper](https://openreview.net/pdf?id=xkrtvHlp3P) | [Code](https://github.com/DSL-Lab/clrs)  | [Note](https://zepengzhang.com/Notes/2023/20231103.pdf)]
 * [arXiv 2023] **SALSA-CLRS: A Sparse and Scalable Benchmark for Algorithmic Reasoning** [[Paper](https://arxiv.org/pdf/2309.12253.pdf) | [Code](https://github.com/jkminder/salsa-clrs) | [Note](https://zepengzhang.com/Notes/2023/20231102.pdf)]
 * [arXiv 2023] **Neural Algorithmic Reasoning for Combinatorial Optimisation** [[Paper](https://arxiv.org/pdf/2306.06064.pdf)]
 * [ICML-W KLR 2023] **Parallel Algorithms Align with Neural Execution** [[Paper](https://arxiv.org/pdf/2307.04049.pdf) | [Note](https://zepengzhang.com/Notes/2023/20231010.pdf)]
